@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Área de Trabalho\2024\c#\firstApp\bin\Debug\net8.0\firstApp.exe
+C:\Users\david\OneDrive\Área de Trabalho\2024\c#\firstApp\bin\Debug\net8.0\firstApp.deps.json
+C:\Users\david\OneDrive\Área de Trabalho\2024\c#\firstApp\bin\Debug\net8.0\firstApp.runtimeconfig.json
+C:\Users\david\OneDrive\Área de Trabalho\2024\c#\firstApp\bin\Debug\net8.0\firstApp.dll
+C:\Users\david\OneDrive\Área de Trabalho\2024\c#\firstApp\bin\Debug\net8.0\firstApp.pdb
+C:\Users\david\OneDrive\Área de Trabalho\2024\c#\firstApp\obj\Debug\net8.0\firstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Área de Trabalho\2024\c#\firstApp\obj\Debug\net8.0\firstApp.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\2024\c#\firstApp\obj\Debug\net8.0\firstApp.AssemblyInfo.cs
+C:\Users\david\OneDrive\Área de Trabalho\2024\c#\firstApp\obj\Debug\net8.0\firstApp.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\2024\c#\firstApp\obj\Debug\net8.0\firstApp.dll
+C:\Users\david\OneDrive\Área de Trabalho\2024\c#\firstApp\obj\Debug\net8.0\refint\firstApp.dll
+C:\Users\david\OneDrive\Área de Trabalho\2024\c#\firstApp\obj\Debug\net8.0\firstApp.pdb
+C:\Users\david\OneDrive\Área de Trabalho\2024\c#\firstApp\obj\Debug\net8.0\firstApp.genruntimeconfig.cache
+C:\Users\david\OneDrive\Área de Trabalho\2024\c#\firstApp\obj\Debug\net8.0\ref\firstApp.dll
