@@ -2,7 +2,7 @@
 
 <h3>Etapas do projeto</h3>
 
-- [] Entendendo a linguagem e plataforma .net <br>
+- [x] Entendendo a linguagem e plataforma .net <br>
 - [] Refatorando a implementação adotando os metodos:<br>
   - [] SOLID<br>
   - [] Desing Patter - Strategy<br>
@@ -11,4 +11,4 @@
 - [] Criar um Front-End em React<br>
 - [] Conectar Front com Back-end<br>
 
-<span>Este projeto tem a finalidade de praticar meus conhecimentos sobre a linguagem C# e a plataforme .Net</span>
+<span>Este projeto tem a finalidade de colocar em prática meus conhecimentos sobre a linguagem C# e a plataforma .Net</span>
