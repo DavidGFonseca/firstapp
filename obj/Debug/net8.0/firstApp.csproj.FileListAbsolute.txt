@@ -12,3 +12,4 @@ C:\Users\david\OneDrive\Área de Trabalho\2024\c#\firstApp\obj\Debug\net8.0\refi
 C:\Users\david\OneDrive\Área de Trabalho\2024\c#\firstApp\obj\Debug\net8.0\firstApp.pdb
 C:\Users\david\OneDrive\Área de Trabalho\2024\c#\firstApp\obj\Debug\net8.0\firstApp.genruntimeconfig.cache
 C:\Users\david\OneDrive\Área de Trabalho\2024\c#\firstApp\obj\Debug\net8.0\ref\firstApp.dll
+C:\Users\david\OneDrive\Área de Trabalho\2024\c#\firstApp\obj\Debug\net8.0\firstApp.sourcelink.json
